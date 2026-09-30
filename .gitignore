@@ -1,0 +1,6 @@
+# TouchDesigner Palette components — loaded from your local TD install at runtime
+*.tox
+
+# TouchDesigner project files and backups
+*.toe
+Backup/
